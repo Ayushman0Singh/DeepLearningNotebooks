@@ -1,6 +1,13 @@
-# DeepLearning notebooks
-This repository includes some of my practical deep-learning ideas and concepts. The notebook Descriptions are as follows:
+# Deep Learning Notebooks
 
-**Tiger Recognition using Fast.ai:** Uses the Fast.ai library to finetune a Resnet18 model to recognize images of tigers and forests.
+Welcome to my repository, where I share some of my practical deep-learning ideas and concepts. Below, you'll find descriptions of the notebooks included in this repository:
 
-**Semantic search using Nearest Neighbours vs approximate nearest Neighbours:** Compares the computational cost of NN and Apprx-NN algorithms for semantic searching
+## Tiger Recognition using Fast.ai
+
+In this notebook, I leverage the Fast.ai library to fine-tune a Resnet18 model for the task of recognizing images of tigers and forests. If you're interested in image recognition and the Fast.ai framework, this notebook is a valuable resource.
+
+## Semantic Search using Nearest Neighbors vs. Approximate Nearest Neighbors
+
+This notebook offers a detailed comparison of the computational cost of Nearest Neighbors (NN) and Approximate Nearest Neighbors (Apprx-NN) algorithms for semantic searching. This notebook explores the algorithms that lie at the heart of modern Vector Databases. If you're exploring efficient search techniques for large datasets, this notebook provides insights into the trade-offs between these two approaches. 
+
+Feel free to explore these notebooks and dive into the world of deep learning and semantic search. If you find them useful or have any feedback, don't hesitate to reach out. Happy coding!
