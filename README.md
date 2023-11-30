@@ -9,4 +9,10 @@ Welcome to my repository, where I share some of my practical deep-learning ideas
 - **Semantic Search using Nearest Neighbors vs. Approximate Nearest Neighbors:**
   This notebook offers a detailed comparison of the computational cost of Nearest Neighbors (NN) algorithms for semantic searching. This notebook explores the algorithms that lie at the heart of modern Vector Databases (ANN).
 
+
+  # TO BE ADDED 
+1. RAG-BASED SEARCH ON DOTA DOCUMENTATION
+2. Some AI-Agents Use-case 
+3. DL notebook (phone format)
+
 Feel free to explore these notebooks. If you find them useful or have any feedback, don't hesitate to reach out. Happy coding!
