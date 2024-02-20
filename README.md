@@ -12,7 +12,7 @@ Welcome to my repository, where I share some of my practical deep-learning ideas
 
   # TO BE ADDED 
 1. RAG-BASED SEARCH ON DOTA DOCUMENTATION
-2. Some AI-Agents Use-case 
+2. AI-Agents Use-case exploration 
 3. DL notebook (phone format)
 
-Feel free to explore these notebooks. If you find them useful or have any feedback, don't hesitate to reach out. Happy coding!
+Feel free to explore these notebooks. If you have any feedback, don't hesitate to reach out.
